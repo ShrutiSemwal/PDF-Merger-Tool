@@ -13,7 +13,7 @@ app.get("/", (req, res) => {
 
 app.post("/merge", upload.array("pdfs", 2), async (req, res, next) => {
   // req.files is array of `pdfs` files
-  console.log(req.files);
+  //console.log(req.files);
   let d = await mergePdfs(
     path.join(__dirname, req.files[0].path),
     path.join(__dirname, req.files[1].path)
