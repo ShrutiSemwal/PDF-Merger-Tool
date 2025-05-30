@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="1.png" alt="App Homepage" width="600"/>
+</p>
+
 ## 🔹App Description
 PdfX – PDF Merger Tool is a simple and user-friendly web application that allows users to seamlessly merge multiple PDF files into a single document. 
 With an intuitive upload interface and fast processing, users can combine PDFs in just a few clicks. 
